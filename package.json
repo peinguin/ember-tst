@@ -1,0 +1,11 @@
+{
+  "name": "ember-tst",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-jsvalidate": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-ember-templates": "*"
+  }
+}
